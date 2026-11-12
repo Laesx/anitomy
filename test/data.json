@@ -1331,6 +1331,19 @@
         }
     },
     {
+        "input": "[Y-467] Josee to Tora to Sakanatachi 804p BD x265 [E819B791].mkv",
+        "mal_id": 40787,
+        "output": {
+            "release_group": "Y-467",
+            "title": "Josee to Tora to Sakanatachi",
+            "video_resolution": "804p",
+            "source": "BD",
+            "video_term": "x265",
+            "file_checksum": "E819B791",
+            "file_extension": "mkv"
+        }
+    },
+    {
         "input": "Vol.01",
         "mal_id": 0,
         "output": {
