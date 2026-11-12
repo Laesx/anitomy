@@ -28,6 +28,19 @@
         }
     },
     {
+        "input": "[AD]Clannad ~AFTER STORY~ - 10 (BD 1080p) [ED204890].mkv",
+        "mal_id": 4181,
+        "output": {
+            "release_group": "AD",
+            "title": "Clannad ~AFTER STORY~",
+            "episode": "10",
+            "source": "BD",
+            "video_resolution": "1080p",
+            "file_checksum": "ED204890",
+            "file_extension": "mkv"
+        }
+    },
+    {
         "input": "[ANBU-Menclave]_Canaan_-_01_[1024x576_H.264_AAC][12F00E89].mkv",
         "mal_id": 5356,
         "output": {
