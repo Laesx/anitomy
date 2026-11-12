@@ -1344,6 +1344,19 @@
         }
     },
     {
+        "input": "[Y-467] Josee to Tora to Sakanatachi 804p BD x265 [E819B791].mkv",
+        "mal_id": 40787,
+        "output": {
+            "release_group": "Y-467",
+            "title": "Josee to Tora to Sakanatachi",
+            "video_resolution": "804p",
+            "source": "BD",
+            "video_term": "x265",
+            "file_checksum": "E819B791",
+            "file_extension": "mkv"
+        }
+    },
+    {
         "input": "Vol.01",
         "mal_id": 0,
         "output": {
@@ -2615,6 +2628,16 @@
             ],
             "video_resolution": "1080p",
             "file_checksum": "3703AD3A"
+        }
+    },
+    {
+        "input": "Black Lagoon 13 - Llegan los vampiros mellizos.mkv",
+        "mal_id": 889,
+        "output": {
+            "title": "Black Lagoon",
+            "episode": "13",
+            "episode_title": "Llegan los vampiros mellizos",
+            "file_extension": "mkv"
         }
     },
     {
