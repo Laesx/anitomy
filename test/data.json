@@ -2605,6 +2605,16 @@
         }
     },
     {
+        "input": "Black Lagoon 13 - Llegan los vampiros mellizos.mkv",
+        "mal_id": 889,
+        "output": {
+            "title": "Black Lagoon",
+            "episode": "13",
+            "episode_title": "Llegan los vampiros mellizos",
+            "file_extension": "mkv"
+        }
+    },
+    {
         "input": "The.Eminence.in.Shadow.S01E05.I.Am....1080p.BluRay.DD2.0.x265-ExCaLiBuR.mkv",
         "mal_id": 48316,
         "output": {
